@@ -1,5 +1,10 @@
-### Hi there 👋
+### Hejsan 👋
+Jag heter Sandra och studerar till Webbutvecklare på mittuniversitetet i Sundsvall.
 
+På min profil kan du se mina projekt!
+
+Vill du kontakta mig? <br>
+Min email: sakn2100@student.miun.se
 <!--
 **sandravilmaknutsson/sandravilmaknutsson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
